@@ -1,0 +1,10 @@
+C:\Users\82103\source\repos\apple1\apple1\bin\Debug\apple1.exe.config
+C:\Users\82103\source\repos\apple1\apple1\bin\Debug\apple1.exe
+C:\Users\82103\source\repos\apple1\apple1\bin\Debug\apple1.pdb
+C:\Users\82103\source\repos\apple1\apple1\obj\Debug\apple1.csprojAssemblyReference.cache
+C:\Users\82103\source\repos\apple1\apple1\obj\Debug\apple1.Form1.resources
+C:\Users\82103\source\repos\apple1\apple1\obj\Debug\apple1.Properties.Resources.resources
+C:\Users\82103\source\repos\apple1\apple1\obj\Debug\apple1.csproj.GenerateResource.cache
+C:\Users\82103\source\repos\apple1\apple1\obj\Debug\apple1.csproj.CoreCompileInputs.cache
+C:\Users\82103\source\repos\apple1\apple1\obj\Debug\apple1.exe
+C:\Users\82103\source\repos\apple1\apple1\obj\Debug\apple1.pdb
