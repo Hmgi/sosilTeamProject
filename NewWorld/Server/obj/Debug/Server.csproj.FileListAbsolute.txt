@@ -1,0 +1,11 @@
+C:\Users\한민기\Desktop\응소실 팀플\NewWorld\Server\bin\Debug\Server.exe.config
+C:\Users\한민기\Desktop\응소실 팀플\NewWorld\Server\bin\Debug\Server.exe
+C:\Users\한민기\Desktop\응소실 팀플\NewWorld\Server\bin\Debug\Server.pdb
+C:\Users\한민기\Desktop\응소실 팀플\NewWorld\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\한민기\Desktop\응소실 팀플\NewWorld\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\한민기\Desktop\응소실 팀플\NewWorld\Server\obj\Debug\Server.Screen.resources
+C:\Users\한민기\Desktop\응소실 팀플\NewWorld\Server\obj\Debug\Server.Server.resources
+C:\Users\한민기\Desktop\응소실 팀플\NewWorld\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\한민기\Desktop\응소실 팀플\NewWorld\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\한민기\Desktop\응소실 팀플\NewWorld\Server\obj\Debug\Server.exe
+C:\Users\한민기\Desktop\응소실 팀플\NewWorld\Server\obj\Debug\Server.pdb
