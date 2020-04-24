@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\NewTProject\bin\Debug\NewTProject.exe.config
+C:\Users\USER\source\repos\NewTProject\bin\Debug\NewTProject.exe
+C:\Users\USER\source\repos\NewTProject\bin\Debug\NewTProject.pdb
+C:\Users\USER\source\repos\NewTProject\obj\Debug\NewTProject.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\NewTProject\obj\Debug\NewTProject.Form1.resources
+C:\Users\USER\source\repos\NewTProject\obj\Debug\NewTProject.Properties.Resources.resources
+C:\Users\USER\source\repos\NewTProject\obj\Debug\NewTProject.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\NewTProject\obj\Debug\NewTProject.exe
+C:\Users\USER\source\repos\NewTProject\obj\Debug\NewTProject.pdb
