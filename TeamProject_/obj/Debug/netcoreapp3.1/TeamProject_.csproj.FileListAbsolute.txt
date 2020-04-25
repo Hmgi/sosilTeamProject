@@ -1,0 +1,13 @@
+C:\Users\Kyung Bae Kim\source\repos\TeamProject_\bin\Debug\netcoreapp3.1\TeamProject_.exe
+C:\Users\Kyung Bae Kim\source\repos\TeamProject_\bin\Debug\netcoreapp3.1\TeamProject_.deps.json
+C:\Users\Kyung Bae Kim\source\repos\TeamProject_\bin\Debug\netcoreapp3.1\TeamProject_.runtimeconfig.json
+C:\Users\Kyung Bae Kim\source\repos\TeamProject_\bin\Debug\netcoreapp3.1\TeamProject_.runtimeconfig.dev.json
+C:\Users\Kyung Bae Kim\source\repos\TeamProject_\bin\Debug\netcoreapp3.1\TeamProject_.dll
+C:\Users\Kyung Bae Kim\source\repos\TeamProject_\bin\Debug\netcoreapp3.1\TeamProject_.pdb
+C:\Users\Kyung Bae Kim\source\repos\TeamProject_\obj\Debug\netcoreapp3.1\TeamProject_.csproj.CoreCompileInputs.cache
+C:\Users\Kyung Bae Kim\source\repos\TeamProject_\obj\Debug\netcoreapp3.1\TeamProject_.AssemblyInfoInputs.cache
+C:\Users\Kyung Bae Kim\source\repos\TeamProject_\obj\Debug\netcoreapp3.1\TeamProject_.AssemblyInfo.cs
+C:\Users\Kyung Bae Kim\source\repos\TeamProject_\obj\Debug\netcoreapp3.1\TeamProject_.dll
+C:\Users\Kyung Bae Kim\source\repos\TeamProject_\obj\Debug\netcoreapp3.1\TeamProject_.pdb
+C:\Users\Kyung Bae Kim\source\repos\TeamProject_\obj\Debug\netcoreapp3.1\TeamProject_.genruntimeconfig.cache
+C:\Users\Kyung Bae Kim\source\repos\TeamProject_\obj\Debug\netcoreapp3.1\TeamProject_.csprojAssemblyReference.cache
