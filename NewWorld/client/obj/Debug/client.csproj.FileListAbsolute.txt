@@ -1,0 +1,10 @@
+C:\Users\한민기\Desktop\응소실 팀플 예제\NewWorld\client\bin\Debug\client.exe.config
+C:\Users\한민기\Desktop\응소실 팀플 예제\NewWorld\client\bin\Debug\client.exe
+C:\Users\한민기\Desktop\응소실 팀플 예제\NewWorld\client\bin\Debug\client.pdb
+C:\Users\한민기\Desktop\응소실 팀플 예제\NewWorld\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\한민기\Desktop\응소실 팀플 예제\NewWorld\client\obj\Debug\client.Client.resources
+C:\Users\한민기\Desktop\응소실 팀플 예제\NewWorld\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\한민기\Desktop\응소실 팀플 예제\NewWorld\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\한민기\Desktop\응소실 팀플 예제\NewWorld\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\한민기\Desktop\응소실 팀플 예제\NewWorld\client\obj\Debug\client.exe
+C:\Users\한민기\Desktop\응소실 팀플 예제\NewWorld\client\obj\Debug\client.pdb

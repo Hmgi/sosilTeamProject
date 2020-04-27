@@ -28,34 +28,34 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.btnListen = new System.Windows.Forms.Button();
+            this.lblData = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // btnListen
+            // lblData
             // 
-            this.btnListen.Location = new System.Drawing.Point(213, 12);
-            this.btnListen.Name = "btnListen";
-            this.btnListen.Size = new System.Drawing.Size(75, 23);
-            this.btnListen.TabIndex = 0;
-            this.btnListen.Text = "Listen";
-            this.btnListen.UseVisualStyleBackColor = true;
-            this.btnListen.Click += new System.EventHandler(this.btnListen_Click);
+            this.lblData.AutoSize = true;
+            this.lblData.Location = new System.Drawing.Point(31, 22);
+            this.lblData.Name = "lblData";
+            this.lblData.Size = new System.Drawing.Size(36, 12);
+            this.lblData.TabIndex = 0;
+            this.lblData.Text = "NULL";
             // 
             // Server
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(300, 200);
-            this.Controls.Add(this.btnListen);
+            this.ClientSize = new System.Drawing.Size(271, 226);
+            this.Controls.Add(this.lblData);
             this.Name = "Server";
             this.Text = "Form1";
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
         #endregion
 
-        private System.Windows.Forms.Button btnListen;
+        private System.Windows.Forms.Label lblData;
     }
 }
 
