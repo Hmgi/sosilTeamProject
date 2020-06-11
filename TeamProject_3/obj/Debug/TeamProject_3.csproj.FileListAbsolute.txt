@@ -1,0 +1,10 @@
+C:\Users\Kyung Bae Kim\source\repos\TeamProject_3\bin\Debug\TeamProject_3.exe.config
+C:\Users\Kyung Bae Kim\source\repos\TeamProject_3\bin\Debug\TeamProject_3.exe
+C:\Users\Kyung Bae Kim\source\repos\TeamProject_3\bin\Debug\TeamProject_3.pdb
+C:\Users\Kyung Bae Kim\source\repos\TeamProject_3\obj\Debug\TeamProject_3.csprojAssemblyReference.cache
+C:\Users\Kyung Bae Kim\source\repos\TeamProject_3\obj\Debug\TeamProject_3.Form1.resources
+C:\Users\Kyung Bae Kim\source\repos\TeamProject_3\obj\Debug\TeamProject_3.Properties.Resources.resources
+C:\Users\Kyung Bae Kim\source\repos\TeamProject_3\obj\Debug\TeamProject_3.csproj.GenerateResource.cache
+C:\Users\Kyung Bae Kim\source\repos\TeamProject_3\obj\Debug\TeamProject_3.csproj.CoreCompileInputs.cache
+C:\Users\Kyung Bae Kim\source\repos\TeamProject_3\obj\Debug\TeamProject_3.exe
+C:\Users\Kyung Bae Kim\source\repos\TeamProject_3\obj\Debug\TeamProject_3.pdb
