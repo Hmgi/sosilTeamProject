@@ -94,12 +94,12 @@ namespace MainProgram
 
         private void btnFile_Click(object sender, EventArgs e)
         {
-            //OpenChildForm(new Forms.FormFile(), sender);
+            OpenChildForm(new Forms.FormFile(), sender);
         }
 
         private void btnDecry_Click(object sender, EventArgs e)
         {
-            //OpenChildForm(new Forms.FormDecry(), sender);
+            OpenChildForm(new Forms.FormDecrypt(), sender);
         }
 
         private void panelTitle_MouseDown(object sender, MouseEventArgs e)
@@ -126,8 +126,6 @@ namespace MainProgram
             this.WindowState = FormWindowState.Minimized;
         }
 
-        ////////////////////
-
         private void button_MouseHover(object sender, EventArgs e)
         {
             var buttons = sender as Button;
@@ -152,7 +150,7 @@ namespace MainProgram
             {
                 btnDecry.ForeColor = Color.Aqua;
             }
-           
+
         }
 
         private void button_MouseLeave(object sender, EventArgs e)
@@ -178,7 +176,7 @@ namespace MainProgram
             {
                 btnDecry.ForeColor = Color.Transparent;
             }
-            
+
         }
 
 

@@ -12,16 +12,39 @@ using System.Net.NetworkInformation;
 using System.Threading;
 
 
+
+
+using System.Runtime.InteropServices;
+
+
+
 namespace MainProgram.Forms
 {
-
-
     public partial class FormIPscan : Form
     {
+
+        [DllImport("gdi32.dll")] private static extern IntPtr CreateRoundRectRgn(int x1, int y1, int x2, int y2, int cx, int cy);
+        [DllImport("user32.dll")] private static extern int SetWindowRgn(IntPtr hWnd, IntPtr hRgn, bool bRedraw);
+
+
+
         public FormIPscan()
         {
             InitializeComponent();
             Control.CheckForIllegalCrossThreadCalls = false;
+
+            //
+            IntPtr ip = CreateRoundRectRgn(0, 0, btnStart.Width, btnStart.Height, 15, 15);
+            int i = SetWindowRgn(btnStart.Handle, ip, true);
+
+            IntPtr ipp = CreateRoundRectRgn(0, 0, btnStop.Width, btnStop.Height, 15, 15);
+            int i1 = SetWindowRgn(btnStop.Handle, ipp, true);
+
+
+            //txtIP.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            IntPtr ippap = CreateRoundRectRgn(0, 0, txtIP.Width, txtIP.Height, 15, 15);
+            int i2 = SetWindowRgn(txtIP.Handle, ippap, true);
+            //
 
         }
         Thread myThread = null;

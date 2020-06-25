@@ -52,6 +52,18 @@
     <Compile Include="Forms\FormConnect.Designer.cs">
       <DependentUpon>FormConnect.cs</DependentUpon>
     </Compile>
+    <Compile Include="Forms\FormDecrypt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormDecrypt.Designer.cs">
+      <DependentUpon>FormDecrypt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormFile.Designer.cs">
+      <DependentUpon>FormFile.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\FormIPscan.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -74,6 +86,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Forms\FormConnect.resx">
       <DependentUpon>FormConnect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormFile.resx">
+      <DependentUpon>FormFile.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\FormIPscan.resx">
       <DependentUpon>FormIPscan.cs</DependentUpon>
@@ -115,9 +130,6 @@
       <Project>{9ad569c5-ecf3-4c15-9059-e0eb16c20ff2}</Project>
       <Name>PacketLibrary</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\close.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

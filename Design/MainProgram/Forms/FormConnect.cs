@@ -28,12 +28,8 @@ namespace MainProgram.Forms
         private void btnConnect_Click(object sender, EventArgs e)
         {
             client = new TcpClient();
-            client.Connect(this.txtIP.Text, 9999);
+            client.Connect(this.txtIP.Text, 9001);
             mainStream = client.GetStream();
-
-            FormScreen formScreen = new FormScreen();
-            formScreen.client = client;
-            formScreen.mainStream = mainStream;
         }
 
         public void Send()

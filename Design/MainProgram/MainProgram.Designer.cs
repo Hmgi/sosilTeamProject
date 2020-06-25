@@ -35,9 +35,9 @@
             this.panelTitle = new System.Windows.Forms.Panel();
             this.btnMinimize = new System.Windows.Forms.Button();
             this.btnMaximize = new System.Windows.Forms.Button();
+            this.btnClose = new System.Windows.Forms.Button();
             this.lblTitle = new System.Windows.Forms.Label();
             this.panelDesktop = new System.Windows.Forms.Panel();
-            this.btnClose = new System.Windows.Forms.Button();
             this.btnDecry = new System.Windows.Forms.Button();
             this.btnFile = new System.Windows.Forms.Button();
             this.btnScreen = new System.Windows.Forms.Button();
@@ -78,7 +78,7 @@
             this.lblLogo.AutoSize = true;
             this.lblLogo.Font = new System.Drawing.Font("Century Gothic", 18F);
             this.lblLogo.ForeColor = System.Drawing.Color.White;
-            this.lblLogo.Location = new System.Drawing.Point(28, 24);
+            this.lblLogo.Location = new System.Drawing.Point(30, 24);
             this.lblLogo.Name = "lblLogo";
             this.lblLogo.Size = new System.Drawing.Size(142, 30);
             this.lblLogo.TabIndex = 0;
@@ -128,27 +128,6 @@
             this.btnMaximize.UseVisualStyleBackColor = true;
             this.btnMaximize.Click += new System.EventHandler(this.btnMaximize_Click);
             // 
-            // lblTitle
-            // 
-            this.lblTitle.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblTitle.AutoSize = true;
-            this.lblTitle.Font = new System.Drawing.Font("Century Gothic", 16F);
-            this.lblTitle.ForeColor = System.Drawing.Color.White;
-            this.lblTitle.Location = new System.Drawing.Point(361, 29);
-            this.lblTitle.Name = "lblTitle";
-            this.lblTitle.Size = new System.Drawing.Size(81, 25);
-            this.lblTitle.TabIndex = 0;
-            this.lblTitle.Text = "HOME";
-            this.lblTitle.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // panelDesktop
-            // 
-            this.panelDesktop.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panelDesktop.Location = new System.Drawing.Point(200, 80);
-            this.panelDesktop.Name = "panelDesktop";
-            this.panelDesktop.Size = new System.Drawing.Size(784, 481);
-            this.panelDesktop.TabIndex = 2;
-            // 
             // btnClose
             // 
             this.btnClose.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
@@ -163,6 +142,27 @@
             this.btnClose.Text = "O";
             this.btnClose.UseVisualStyleBackColor = true;
             this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
+            // 
+            // lblTitle
+            // 
+            this.lblTitle.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblTitle.AutoSize = true;
+            this.lblTitle.Font = new System.Drawing.Font("Century Gothic", 16F);
+            this.lblTitle.ForeColor = System.Drawing.Color.White;
+            this.lblTitle.Location = new System.Drawing.Point(338, 24);
+            this.lblTitle.Name = "lblTitle";
+            this.lblTitle.Size = new System.Drawing.Size(81, 25);
+            this.lblTitle.TabIndex = 0;
+            this.lblTitle.Text = "HOME";
+            this.lblTitle.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // panelDesktop
+            // 
+            this.panelDesktop.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panelDesktop.Location = new System.Drawing.Point(200, 80);
+            this.panelDesktop.Name = "panelDesktop";
+            this.panelDesktop.Size = new System.Drawing.Size(784, 481);
+            this.panelDesktop.TabIndex = 2;
             // 
             // btnDecry
             // 
@@ -198,7 +198,7 @@
             this.btnFile.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.btnFile.Size = new System.Drawing.Size(200, 70);
             this.btnFile.TabIndex = 5;
-            this.btnFile.Text = "      File Explorer";
+            this.btnFile.Text = "File Explorer";
             this.btnFile.UseVisualStyleBackColor = true;
             this.btnFile.Click += new System.EventHandler(this.btnFile_Click);
             this.btnFile.MouseLeave += new System.EventHandler(this.button_MouseLeave);
@@ -218,7 +218,7 @@
             this.btnScreen.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.btnScreen.Size = new System.Drawing.Size(200, 70);
             this.btnScreen.TabIndex = 4;
-            this.btnScreen.Text = "      Screen View";
+            this.btnScreen.Text = "Screen View";
             this.btnScreen.UseVisualStyleBackColor = true;
             this.btnScreen.Click += new System.EventHandler(this.btnScreen_Click);
             this.btnScreen.MouseLeave += new System.EventHandler(this.button_MouseLeave);
