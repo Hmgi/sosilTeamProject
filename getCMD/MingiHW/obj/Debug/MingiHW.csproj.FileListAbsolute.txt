@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\MingiHW\bin\Debug\MingiHW.exe.config
+C:\Users\USER\source\repos\MingiHW\bin\Debug\MingiHW.exe
+C:\Users\USER\source\repos\MingiHW\bin\Debug\MingiHW.pdb
+C:\Users\USER\source\repos\MingiHW\obj\Debug\MingiHW.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\MingiHW\obj\Debug\MingiHW.Form1.resources
+C:\Users\USER\source\repos\MingiHW\obj\Debug\MingiHW.Properties.Resources.resources
+C:\Users\USER\source\repos\MingiHW\obj\Debug\MingiHW.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\MingiHW\obj\Debug\MingiHW.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\MingiHW\obj\Debug\MingiHW.exe
+C:\Users\USER\source\repos\MingiHW\obj\Debug\MingiHW.pdb
